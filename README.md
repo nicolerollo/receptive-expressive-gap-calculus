@@ -8,8 +8,6 @@
 [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-lightgrey)](LICENSE-CONTENT.md)
 [![Paper (PDF)](https://img.shields.io/badge/paper-PDF-b31b1b)](paper/one-gap-three-answers.pdf)
 
-**Nicole Rollo** · MATH 140: Calculus I · University of Maryland Global Campus · 2026
-
 Receptive language concerns what a child understands; expressive language concerns what a child can communicate. When those trajectories differ, the size of the developmental "gap" depends on what is meant mathematically by *gap*.
 
 This repository reproduces a Calculus I analysis of group-level receptive- and expressive-language trajectories in **Down syndrome (DS)** and **Fragile X syndrome (FXS)**. The same fitted trajectories are examined with three valid definitions of separation:
