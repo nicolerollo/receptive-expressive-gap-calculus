@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it using the metadata below.
+title: 'One Gap, Three Answers: A Calculus Analysis of Receptive and Expressive Language Development'
+type: software
+authors:
+- family-names: Rollo
+  given-names: Nicole
+abstract: Reproducible calculus analysis of group-level receptive- and expressive-language trajectories
+  in Down syndrome and Fragile X syndrome. The project compares an absolute score gap, a proportional
+  gap, and a chronological time gap, and uses the Mean Value Theorem to connect score separation
+  with time separation.
+keywords:
+- calculus
+- mathematical modeling
+- developmental trajectories
+- receptive language
+- expressive language
+- Down syndrome
+- Fragile X syndrome
+- reproducibility
+license:
+- MIT
+- CC-BY-4.0
+version: 1.0.0
+date-released: '2026-10-04'
+repository-code: https://github.com/nicolerollo/receptive-expressive-gap-calculus
